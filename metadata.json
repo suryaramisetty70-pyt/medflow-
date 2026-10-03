@@ -1,0 +1,6 @@
+{
+  "name": "MEDFLOW AI - Hospital Appointment & OPD Queue Management Platform",
+  "description": "Production-grade hospital appointment scheduling, smart doctor calendars, real-time OPD queue token tracking, AI wait-time and no-show prediction, and clinical dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
